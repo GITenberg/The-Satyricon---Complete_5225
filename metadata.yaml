@@ -1,5 +1,5 @@
 _repo: The-Satyricon---Complete_5225
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Firebaugh, W. C.
@@ -7,9 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/36279
 covers:
 - cover_type: archival
-  image_path: 5225/5225-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 5225-h/images/cover.jpg
 creator:
   author:
     agent_name: Petronius Arbiter
@@ -22,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1743
     wikipedia: http://en.wikipedia.org/wiki/Petronius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5225#The-Satyricon---Complete
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Erotic Fiction
